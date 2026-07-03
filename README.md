@@ -9,6 +9,9 @@ An AI-powered Career Assistant built with **Python**, **Streamlit**, and **Groq 
 
 ---
 
+## 🌐 Live Demo
+👉 https://ai-career-assistant-ddggegpdq5byoejq8tirhp.streamlit.app/
+
 # 🚀 Project Highlights
 
 - 🤖 Multi-role AI Assistant
