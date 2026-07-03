@@ -1,0 +1,7 @@
+APP_TITLE = "🤖 Smart AI Assistant"
+PAGE_TITLE = "Smart AI Assistant"
+SIDEBAR_TITLE = "💬 Chat Options"
+CLEAR_BUTTON = "🗑️ Clear History"
+SPINNER_TEXT = "🤔 Thinking..."
+CHAT_INPUT = "Ask anything..."
+CLEAR_SUCCESS = "Chat history cleared!"
