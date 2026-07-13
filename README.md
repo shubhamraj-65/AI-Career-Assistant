@@ -1,16 +1,26 @@
 # 🤖 AI Career Assistant
 
-![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?style=for-the-badge&logo=streamlit)
-![Groq](https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+<div align="center">
 
-An AI-powered Career Assistant built with **Python**, **Streamlit**, and **Groq API**. The application provides multiple AI assistant modes including a General Assistant, Coding Assistant, Data Analyst Assistant, and Interview Coach through a clean and interactive web interface.
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-FF4B4B?style=for-the-badge&logo=streamlit)
+![Groq](https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge)
+![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge)
+
+### 🚀 An AI-powered Career Assistant built using Python, Streamlit, Prompt Engineering, and Groq LLM API.
+
+**One platform for Coding, Data Analytics, Interview Preparation, and Career Guidance.**
+
+</div>
 
 ---
 
-## 🌐 Live Demo
+# 🌐 Live Demo
 ### 👉 https://ai-career-assistant-ddggegpdq5byoejq8tirhp.streamlit.app/
+> No installation required. Open the link and start chatting with your AI Career Assistant instantly.
+
+---
 
 # 🚀 Project Highlights
 
